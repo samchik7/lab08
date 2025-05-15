@@ -1,0 +1,14 @@
+Execute command: [
+  `which`
+  `cmake`
+]
+[/Users/sam/samchik7/workspace/projects/lab07]> "which" "cmake"
+/Users/sam/.brew/bin/cmake
+Execute command: [
+  `cmake`
+  `--version`
+]
+[/Users/sam/samchik7/workspace/projects/lab07]> "cmake" "--version"
+cmake version 3.31.6
+
+CMake suite maintained and supported by Kitware (kitware.com/cmake).
